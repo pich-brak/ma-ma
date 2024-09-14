@@ -1,0 +1,70 @@
+.container{
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 60px;
+    background-color: #fff;
+    height: 500px;
+    box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.1)
+    
+
+    
+}
+.p{
+    color: gray;
+    font-size: 22px;
+
+}
+img{
+    width: 200px;
+    height: 80px;
+    
+}
+input{
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    background-color: #ccc;
+}
+h3{
+    color: gray;
+
+}
+button{
+    width: 425px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    border: none;
+    color: #fff;
+    background-color: blue;
+}
+
+.fa-user{
+    position: absolute;
+    left: 63%;
+    top: 46%;
+    color: rgb(156, 148, 148);
+}
+.fa-unlock-keyhole{
+    position: absolute;
+    left: 63%;
+    top: 56%;
+    color: rgb(156, 148, 148);
+}
+h5{
+    color: blue;
+}
+body{
+    background-color: rgb(88, 143, 6);
+}
+.card1{
+    display: flex;
+    justify-content: space-around;
+    color: blue;
+
+}
